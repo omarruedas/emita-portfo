@@ -1,0 +1,43 @@
+.image {
+    padding-left: 05%;
+    padding-right: 0%;
+    padding-top: 02%;
+}
+.hello {
+    padding-right: 0%;
+    padding-left: 05%;
+    padding-top: 01%;
+} 
+.about {
+    padding-right: 05%;
+    padding-left: 05%;
+    padding-top: 03%;
+}
+.lists-intro {
+    padding-top: 03%;
+    padding-right: 03%;
+    padding-left: 05%;
+}
+.list {
+    padding-top: 01%;
+    padding-right: 5%;
+    padding-left: 05%;
+}
+.contact{
+    padding-top: 03%;
+    padding-right: 5%;
+    padding-left: 05%;
+    padding-bottom: 01%;
+}
+.car {
+    padding-right: 20%;
+    padding-left: 20%;
+    padding-top: 03%;
+} 
+.back {
+    padding-left: 30%;
+    
+}
+.forward {
+    padding-right:30%;
+}
