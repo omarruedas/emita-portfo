@@ -45,7 +45,8 @@
 
 body {
     background-color:#EDC7B7;
-color:#123C69;    
+color:#123C69;   
+font-family: 'Poppins', sans-serif;
 }
 .card-body {
     background-color: #EEE2DC;
