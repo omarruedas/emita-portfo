@@ -22,6 +22,7 @@
     padding-top: 01%;
     padding-right: 5%;
     padding-left: 05%;
+    padding-bottom: 02%;
 }
 .contact{
     padding-top: 03%;
@@ -40,4 +41,12 @@
 }
 .forward {
     padding-right:30%;
+}
+
+body {
+    background-color:#EDC7B7;
+color:#123C69;    
+}
+.card-body {
+    background-color: #EEE2DC;
 }
